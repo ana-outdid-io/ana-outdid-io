@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ana-outdid-io
+- 👋 Hi, I’m @anamaria
 - 👀 I’m interested in **building projects and creating the propen environment for people to grow.**
 - 🌱 I’m currently **learning Solidity and how to become a better leader.**
 - 💞️ I’m looking to collaborate on **speaking opportunities, business advising for your team,  the integration of Outdid.io in your company/ project**.
